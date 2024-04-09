@@ -9,3 +9,6 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+// CHALLENGE #1: Understand "The Atomic Blog" App
+// What is the Context API?
