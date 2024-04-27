@@ -179,3 +179,4 @@ function Footer() {
 export default App;
 
 // Thinking In React: Advanced State Management
+// Performance Optimization and Wasted Renders
