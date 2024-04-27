@@ -180,3 +180,4 @@ export default App;
 
 // Thinking In React: Advanced State Management
 // Performance Optimization and Wasted Renders
+// The Profiler Developer Tool
