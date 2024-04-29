@@ -15,6 +15,8 @@ function App() {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFakeDark, setIsFakeDark] = useState(false);
 
+  //
+
   // Derived state. These are the posts that will actually be displayed
   const searchedPosts =
     searchQuery.length > 0
@@ -196,3 +198,5 @@ function Footer() {
 }
 
 export default App;
+
+// Understanding useMemo and useCallback
